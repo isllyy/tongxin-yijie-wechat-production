@@ -1,0 +1,5 @@
+interface:
+  display_name: "公众号标题优选"
+  short_description: "按正文证据与作者语气生成八个标题，评分择优并给出稳妥及传播版本"
+  default_prompt: "用 $wechat-title-optimizer 为这篇公众号文章生成8个不同角度的标题，评分并推荐主标题、稳妥版和传播版。"
+

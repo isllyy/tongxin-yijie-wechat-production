@@ -1,0 +1,5 @@
+interface:
+  display_name: "通信伊姐公众号全流程"
+  short_description: "从选题正文到标题优选、IP配图、微信排版与草稿投递，按阶段确认和核验"
+  default_prompt: "用 $tongxin-yijie-wechat-production 按通信伊姐流程处理这些材料，生成正文、标题优选、配图和排版，并在授权范围内保存草稿箱。"
+
